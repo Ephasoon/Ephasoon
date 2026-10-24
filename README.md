@@ -59,3 +59,44 @@ I'm a methodical and creative developer from Ethiopia, interested in building sc
 | [🏨 GuestEase Hotel Management System](https://github.com/Ephasoon/guestease-hotel-management-system) | A hotel management project. [Live Demo](https://guestease-hotel-management-system.netlify.app/) · [Source Code](https://github.com/Ephasoon/guestease-hotel-management-system) |
 | [🩺 WithUnion Clinic](https://github.com/Ephasoon/withunion-clinic) | A phased clinic software project. The current repository focuses on backend foundations, including authentication, role-based access control, database migrations, configuration, logging, validation, and testing infrastructure. |
 | [🌅 Day & Night Sky](https://github.com/Ephasoon/day-night-sky) | An interactive Three.js visual experiment featuring a changing sky, celestial objects, and animated environmental elements. |
+
+
+
+## 📚 Currently Learning & Exploring
+
+- 🧠 AI engineering, LLM applications, and retrieval-augmented generation (RAG).
+- ⚙️ Backend architecture, API design, and database engineering.
+- ☁️ Cloud deployment, DevOps, and maintainable application infrastructure.
+- 📈 SaaS products, automation, and business management systems.
+- 💡 Turning practical problems and early-stage ideas into useful software.
+
+## 🎯 My Goal
+
+My goal is to become a stronger software engineer who understands not only **how to build software, but also why it matters**.
+
+I want to build reliable, maintainable, and useful products that help businesses operate better. I’m particularly interested in the intersection of software engineering, AI, entrepreneurship, and business operations.
+
+## 🤝 Let's Connect
+
+I'm open to meaningful collaborations, software projects, startup ideas, technical discussions, and opportunities to learn and grow.
+
+- 🌐 **Website:** [withunion.net](https://withunion.net/)
+- 💼 **LinkedIn:** [Ephraim Shibru](https://www.linkedin.com/in/ephraim-shibru/)
+- 📺 **YouTube:** [@EphaSolo](https://www.youtube.com/@EphaSolo)
+- 💬 **Telegram:** [EphaSoon Tech Hub](https://t.me/EphaSoonTechHub)
+- 📧 **Email:** [ephraimshibru228@gmail.com](mailto:ephraimshibru228@gmail.com)
+
+---
+
+<div align="center">
+
+## 📊 GitHub Overview
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=Ephasoon&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&bg_color=0D1117&title_color=58A6FF&icon_color=58A6FF" alt="Ephasoon's GitHub statistics">
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ephasoon&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF" alt="Ephasoon's most-used languages">
+
+<br>
+
+*Learning continuously. Building deliberately. Improving with every project.*
+
+</div>
